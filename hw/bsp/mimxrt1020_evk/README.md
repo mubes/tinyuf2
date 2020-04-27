@@ -1,4 +1,4 @@
-To deploy on mimxrt1020_evk open the `RT1020-EVK` drive and drag/drop the compiled file `_build/build-mimxrt1020_evk/mimxrt1020_evk-firmware.bin` onto it.
+To deploy on mimxrt1020_evk open the `RT1020-EVK` drive and drag/drop the hex version of the compiled file `_build/build-mimxrt1020_evk/mimxrt1020_evk-firmware.hex` onto it.
 
 After 5 seconds or so the drive `UF2BOOT` will appear.
 
